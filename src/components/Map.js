@@ -4,7 +4,7 @@ import GoogleMapReact from 'google-map-react';
 import LocationMarker from './LocationMarker';
 import LocationInfoBox from './LocationInfoBox';
 
-const API_KEY = 'AIzaSyB9OF-R27nbdUL8MI7n9tuIgQ5VbyjfisI';
+const API_KEY = 'YOUR_API_KEY';
 
 const Map = ({ eventData, center, zoom }) => {
     

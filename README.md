@@ -1,3 +1,7 @@
+# Demo Images
+
+![Home Page of Localhost:3000](https://github.com/LuffyAnshul/wildfire-tracker/blob/master/demoImage/Screenshot%20(144).png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,4 +1,6 @@
-# Demo Images
+# Demo Image
+
+### Try Clicking on the Fire Icon
 
 ![Home Page of Localhost:3000](https://github.com/LuffyAnshul/wildfire-tracker/blob/master/demoImage/Screenshot%20(144).png)
 

@@ -1,6 +1,6 @@
 # Demo Image
 
-### Try Clicking on the Fire Icon
+### Try Clicking on the Fire Icon and please update your Google MAPS API key @src/components/Map.js
 
 ![Home Page of Localhost:3000](https://github.com/LuffyAnshul/wildfire-tracker/blob/master/demoImage/Screenshot%20(144).png)
 

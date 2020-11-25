@@ -1,7 +1,7 @@
 # Demo Image
 
-### Try Clicking on the Fire Icon and please update your Google MAPS API key @src/components/Map.js
-
+#### Try Clicking on the Fire Icon.
+#### Please update your Google MAPS API key @src/components/Map.js
 ![Home Page of Localhost:3000](https://github.com/LuffyAnshul/wildfire-tracker/blob/master/demoImage/Screenshot%20(144).png)
 
 # Getting Started with Create React App
